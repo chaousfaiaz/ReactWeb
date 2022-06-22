@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ImgProfile from "../../images/person1.webp";
+import ImgProfile from "../../images/Person1.webp";
 
 export default class Profile extends Component {
   render() {
@@ -9,13 +9,13 @@ export default class Profile extends Component {
           <img
             className="circle responsive-img"
             src={ImgProfile}
-            alt="JIMMY TRAN"
+            alt="MD FAIAZ"
           />
         </div>
         <div className="card light-blue darken-4 z-depth-0 hide-on-large-only">
           <div className="card-content center social">
             <h2 className="grey-text text-lighten-3">
-              <strong>JIMMY TRAN</strong>
+              <strong>MD Faiaz</strong>
             </h2>
             <h5 className="grey-text text-lighten-1">
               Full Stack Web Developer
@@ -35,9 +35,12 @@ export default class Profile extends Component {
             </h6>
             <hr />
             <p className="grey-text text-lighten-3 pt">
-              Hey, I'm Jimmy. I am a new grad from Ryerson (now Toronto
-              Metropolitan) University. I love learning new things, facing
-              challenges and having fun.
+              Hello Thank you for visiting my Website. My name is MD Faiaz. I am a Computer Engineering student from Toronto
+              Metropolitan University and I have graduated from Software Engineering Technology from Centennial college and I am 
+              currently entolled in Seneca college for Software Development which Bachelors of Technology. 
+              
+              I strive for what I want and compassionate about technology animation web development Database management and more.
+              I am always learning new things every day and I am tempted by challenges and I try to lean and perfect from my experience and enjoy while doing so.
             </p>
           </div>
         </div>
