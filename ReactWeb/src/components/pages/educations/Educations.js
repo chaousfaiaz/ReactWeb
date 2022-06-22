@@ -16,10 +16,10 @@ export default class Educations extends Component {
                 <blockquote>
                   <h6 className="no-pad mt-bottom">
                     <strong>Ryerson University</strong>
-                    <span>2016 - 2021</span>
+                    <span>2018 - 2020</span>
                   </h6>
                   <p className="pt">
-                  Honours Bachelor of Science Computer Science Major
+                   Bachelors of Engineer
                   </p>
                 </blockquote>
               </div>
@@ -27,11 +27,23 @@ export default class Educations extends Component {
               <div className="col s12">
                 <blockquote>
                   <h6 className="no-pad mt-bottom">
-                    <strong>Ryerson University</strong>
-                    <span>2016 - 2021</span>
+                    <strong>Centennial College</strong>
+                    <span>2020 - 2022</span>
                   </h6>
                   <p className="pt">
-                  Economics Minor
+                  Software Engineering Technology
+                  </p>
+                </blockquote>
+              </div>
+      
+       <div className="col s12">
+                <blockquote>
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Seneca College</strong>
+                    <span>2020 - 2022</span>
+                  </h6>
+                  <p className="pt">
+                  Software Development
                   </p>
                 </blockquote>
               </div>
