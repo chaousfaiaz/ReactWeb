@@ -14,9 +14,9 @@ export default class Contact extends Component {
               Toronto, Ontario
             </p>
             <p className="grey-text text-lighten-3 pt">
-              Email: Jimmy2301@gmail.com
+              Email: faiazittesham12@gmail.com
               <br />
-              Phone: (647) 606-9497
+              Phone: (647) 229-0372
             </p>
           </div>
         </div>
