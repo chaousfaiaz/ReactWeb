@@ -7,13 +7,13 @@ export default class About extends Component {
         <div className="card z-depth-0 hide-on-med-and-down pt">
           <div className="card-content social">
             <h2 className="grey-text text-darken-3">
-              <strong>JIMMY TRAN</strong>
+              <strong>MD FAIAZ</strong>
             </h2>
             <h5 className="grey-text text-darken-1">Full Stack Web Developer</h5>
-                <a href="https://www.linkedin.com/in/jaaytran/" target="blank">
-                    <i className="fab fa-linkedin fa-2x"></i>
+                <a href="https://www.youtube.com/c/EngineeringQuest/videos" target="blank">
+                    <i className="fa-brands fa-youtube fa-2x">
                 </a>
-                <a href="https://github.com/JaayTran/" target="blank">
+                <a href="https://github.com/chaousfaiaz" target="blank">
                     <i className="fab fa-github-square fa-2x"></i>
                 </a>
           </div>
