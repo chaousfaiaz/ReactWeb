@@ -19,7 +19,7 @@ export default class Educations extends Component {
                     <span>2018 - 2020</span>
                   </h6>
                   <p className="pt">
-                   Bachelors of Engineer
+                   Bachelors of Engineering
                   </p>
                 </blockquote>
               </div>
