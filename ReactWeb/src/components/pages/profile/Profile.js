@@ -20,10 +20,10 @@ export default class Profile extends Component {
             <h5 className="grey-text text-lighten-1">
               Full Stack Web Developer
             </h5>
-            <a href="https://www.linkedin.com/in/jaaytran/" target="blank">
-              <i className="fab fa-linkedin fa-2x"></i>
+            <a href="https://www.youtube.com/c/EngineeringQuest/videos" target="blank">
+              <i className="fab fa-youtube fa-2x"></i>
             </a>
-            <a href="https://github.com/JaayTran/" target="blank">
+            <a href="https://github.com/chaousfaiaz" target="blank">
               <i className="fab fa-github-square fa-2x"></i>
             </a>
           </div>
